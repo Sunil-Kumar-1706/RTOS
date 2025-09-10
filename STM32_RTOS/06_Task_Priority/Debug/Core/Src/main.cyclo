@@ -1,0 +1,11 @@
+../Core/Src/main.c:29:6:EXTI15_10_IRQHandler	1
+../Core/Src/main.c:36:6:uart_msg	1
+../Core/Src/main.c:42:6:rtos_delay	2
+../Core/Src/main.c:51:6:task1	2
+../Core/Src/main.c:83:6:task2	2
+../Core/Src/main.c:115:5:main	1
+../Core/Src/main.c:139:6:SystemClock_Config	4
+../Core/Src/main.c:173:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:191:13:MX_GPIO_Init	1
+../Core/Src/main.c:221:6:StartDefaultTask	1
+../Core/Src/main.c:230:6:Error_Handler	1
